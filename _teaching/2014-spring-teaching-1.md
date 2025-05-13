@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "CSCI 3104 - Algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-spring
+venue: "University of Colorado - Boulder"
+date: 2025-05-04
+location: "Boulder, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teaching assistant for the University of Colorado, Boulder introduction to algorithms course targeting undergraduates in the computer science major.
 
-Heading 1
+Course Overview
 ======
 
-Heading 2
-======
-
-Heading 3
+Syllabus / Course Schedule
 ======
