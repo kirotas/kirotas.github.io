@@ -1,7 +1,7 @@
 ---
 title: "Hardness of Approximation for the Covering Radius Problem in Lattices"
 collection: talks
-type: "Poster"
+type: "Poster presentation"
 permalink: /talks/2012-03-01-talk-1
 venue: "University of Colorado, Boulder"
 date: 2025-02-06
