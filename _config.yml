@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peter Ly / Kirotas"
+title                    : "Peter Ly"
 title_separator          : "-"
 name                     : &name "Peter Ly"
 description              : &description "Oddity"
