@@ -1,10 +1,10 @@
 ---
-title: "EECS 477 - Algorithms"
+title: "EECS 376 - Foundations of Computer Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-fall
+permalink: /teaching/2023-winter
 venue: "University of Michigan - Ann Arbor"
-date: 2023-09-01
+date: 2023-01-01
 location: "Ann Arbor, Michigan, USA"
 ---
 
