@@ -1,7 +1,7 @@
 ---
 title: "Hardness of the Binary Covering Radius Problem in Large ell_p Norms"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-03-03-BinGapCRP
 excerpt: 'This paper is about the Binary Gap Covering Radius Problem which interpolates between the Covering Radius Problem and the Linear Discrepancy problem.'
 date: 2026-03-03
